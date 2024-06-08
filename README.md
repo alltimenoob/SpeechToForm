@@ -1,16 +1,6 @@
-# speech_to_form
+# Speech To Form
 
 A Mobile Application Project where you can fill forms using speech.
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Demo
+<img width="200" alt="image" src="https://github.com/alltimenoob/SpeechToForm/assets/54467382/b813d5c1-0d8d-4d0e-982a-533d2878514b">
